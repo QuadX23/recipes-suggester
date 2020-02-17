@@ -1,0 +1,6 @@
+aiohttp
+elasticsearch-async
+pydantic
+pytest
+pytest-aiohttp
+gunicorn
